@@ -20,8 +20,8 @@
       <p>Sou do Brasil, mas eu manjo um pouco do inglês</p>
       <h2>Colégio: </h2>
       <p>Rodolpho Zaninelli</p>
-      <h2>gostos musicais</h2>
-      <p>seu gostos musicas aqui</p>
+      <h2>Gostos Musicais</h2>
+      <p>Eu gosto muito de rock metal, trap, e indie</p>
     </div>
   </div>
 </body>
